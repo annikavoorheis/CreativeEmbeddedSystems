@@ -1,5 +1,3 @@
-# CreativeEmbeddedSystems
+# Creative Embedded Systems Course Projects in this Repository
 
-# Annika Voorheis
-# link to mod 1 documentation
-#https://www.youtube.com/watch?v=yOy4NXSv_P8
+# Using our ESP32s we have completed many projects and installations and this is where I am documenting my code for Modules 1 and 2 and the Final Project 
